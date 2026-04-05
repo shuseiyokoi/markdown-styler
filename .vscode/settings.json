@@ -1,0 +1,14 @@
+{
+    "markdown-pdf.styles": [
+        "markdown-pdf.css"
+    ],
+    "markdown-pdf.format": "letter",
+    "markdown-pdf.orientation": "portrait",
+    "markdown-pdf.margin.top": "10mm",
+    "markdown-pdf.margin.bottom": "10mm",
+    "markdown-pdf.margin.left": "10mm",
+    "markdown-pdf.margin.right": "10mm",
+    "markdown-pdf.displayHeaderFooter": false,
+    "markdown-pdf.printBackground": false,
+    "markdown-pdf.scale": 1
+}
